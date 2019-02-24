@@ -30,11 +30,11 @@
 
 ![](https://s8.hostingkartinok.com/uploads/images/2019/02/e6f78ad16cec0ef8413b5ba6d32bce35.png)
 
-Прокручиваем до пункта **GitHub Pages**. Если здесь уже находится ссылка на созданную страницу, больше ничего делать не нужно, GitHub Pages создана. (рис 6)  
+Прокручиваем до пункта **GitHub Pages**. Если здесь уже находится ссылка на созданную страницу,  больше ничего делать не нужно, GitHub Pages создана. Ссылка будет примерно такая https://your-githab-account.github.io/your-repository-name/ (рис 6)  
 
 ![](https://s8.hostingkartinok.com/uploads/images/2019/02/993f3106184bf91f34f915c4dff21b7c.png)
 
-Если ссылки нет, нужно выбрать из какой ветки репозитория будет создана GitHub Pages. Выбираем *gh-pages*. Появляется надпись **Your site is ready to be published at** * /здесь ссылка/*. Поздравляю. Страница GitHub Pages создана. Если не создана, переходим к следующему шагу.
+Если ссылки нет, нужно выбрать из какой ветки репозитория будет создана GitHub Pages. Выбираем *gh-pages*. Появляется надпись **Your site is ready to be published at** */здесь ссылка /*. Поздравляю. Страница GitHub Pages создана. Если не создана, переходим к следующему шагу.
 
 4. Если после выбора ветки gh-pages надпись **Your site is ready...** не появляется, в настройках репозитория в пункте GitHub Pages нажимаем на кнопку **Choose a theme**. На странице тем кликаем **Select theme**. (рис 7)
 
